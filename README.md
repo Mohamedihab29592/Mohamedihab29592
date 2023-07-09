@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ihab</h1>
 <h3 align="center">A passionate Mobile Appplication developer (Flutter - Android) from Egypt</h3>
 
-- 🌱 I’m currently learning **java**
-
 - 💬 Ask me about **flutter ,dart,Java,python, c++**
 
 - 📫 How to reach me **mihab6639@gmail.com**
