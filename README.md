@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ihab</h1>
 <h3 align="center">A passionate Mobile Appplication developer (Flutter) from Egypt</h3>
 
-- 💬 Ask me about **flutter ,dart,Java,python, c++**
+- 💬 Ask me about **flutter ,dart,Java,SwiftUI,python,c++**
 
 - 📫 How to reach me **mohamed_ihab.92@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-ihab-382b50238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ihab-382b50238" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ihab-%F0%9F%87%B5%F0%9F%87%B8-382b50238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ihab-382b50238" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed.ihab.bebo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.ihab.bebo" height="30" width="40" /></a>
 </p>
 
