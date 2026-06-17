@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ihab</h1>
-<h3 align="center">Senior Mobile Developer · Flutter & Dart · Building production Mobile APPS from Egypt 🇪🇬</h3>
+<h3 align="center">Senior Mobile Developer · Flutter & Dart · Building production fintech from Egypt 🇪🇬</h3>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🔭 Currently leading mobile development at **Baytukum** — a fintech investing app live on **iOS & Android** with **10K+ users**
+- 🔭 Currently leading mobile development on a **production fintech app**, live on **iOS & Android** with **10K+ users**
 - 🏗️ I build Flutter apps end-to-end: **Clean Architecture (MVVM), BLoC, CI/CD, and the release that ships them**
 - ⚡ Ship fast with **GitHub Actions CI/CD**, **Shorebird OTA**, **Sentry** monitoring, and **OneSignal** push notifications
 - 🤖 Heavy user of **AI-assisted development** — Claude, Cursor, Codex & GitHub Spec Kit
@@ -50,15 +50,23 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-ihab-382b50238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:mohamed_ihab.92@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 What I'm Focused On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedihab29592&show_icons=true&locale=en&theme=tokyonight" alt="mohamedihab29592" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedihab29592&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
+- Scaling production mobile platforms — performance, reliability, and clean release pipelines across iOS & Android
+- Strengthening **test coverage** and **CI/CD automation** (GitHub Actions, Shorebird OTA)
+- Integrating **AI-assisted workflows** into daily development to ship faster without compromising quality
+
+---
+
+### 🧑‍🏫 Mentoring & Teaching
+
+Alongside building products, I help other developers grow:
+
+- Delivered Flutter sessions on **architecture, state management, API/AI integration, and performance**
+- Interviewed, code-reviewed, and mentored developers across several product teams and Flutter bootcamps
+- Focused on raising real engineering standards — clean, testable, maintainable code
