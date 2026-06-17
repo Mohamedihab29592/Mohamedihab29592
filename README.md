@@ -11,6 +11,7 @@
 - 🤖 Heavy user of **AI-assisted development** — Claude, Cursor, Codex & GitHub Spec Kit
 - 🧑‍🏫 Former Flutter **mentor & instructor** — interviewed and trained dozens of developers
 - 💬 Ask me about **Flutter, Dart, Clean Architecture, BLoC, State Management & CI/CD**
+- 💼 Connect on [**LinkedIn**](https://www.linkedin.com/in/mohamed-ihab-382b50238/)
 - 📫 Reach me at **mohamed_ihab.92@hotmail.com**
 
 ---
@@ -43,15 +44,6 @@
 - **Baytukum** (Fintech / Investment) — [Google Play](https://play.google.com/store/apps/details?id=ae.baytuki.baytuki) · [App Store](https://apps.apple.com/ae/app/baytukum/id1667204094)
 - **Slash** — [Main App](https://play.google.com/store/apps/details?id=com.slashOrg.slash) · [Seller App](https://play.google.com/store/apps/details?id=com.slashOrg.slashseller)
 - **Q Dealer** — [App Store](https://apps.apple.com/qa/app/q-dealer/id6478895349)
-
----
-
-### 🔗 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ihab-382b50238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:mohamed_ihab.92@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
 
 ---
 
