@@ -9,7 +9,7 @@
 - 🏗️ I build Flutter apps end-to-end: **Clean Architecture (MVVM), BLoC, CI/CD, and the release that ships them**
 - ⚡ Ship fast with **GitHub Actions CI/CD**, **Shorebird OTA**, **Sentry** monitoring, and **OneSignal** push notifications
 - 🤖 User of **AI-assisted development** 
-- 🧑‍🏫 Former Flutter **mentor & instructor** — interviewed and trained dozens of developers
+- 🧑‍🏫 Former Flutter **mentor & instructor** interviewed and trained dozens of developers
 - 💬 Ask me about **Flutter, Dart, Clean Architecture, BLoC, State Management & CI/CD**
 - 💼 Connect on [**LinkedIn**](https://www.linkedin.com/in/mohamed-ihab-382b50238/)
 - 📫 Reach me at **mohamed_ihab.92@hotmail.com**
