@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ihab</h1>
-<h3 align="center">Senior Mobile Developer · Flutter & Dart · Building production fintech from Egypt 🇪🇬</h3>
+<h3 align="center">Senior Mobile Developer · Flutter & Dart · Building production Mobile APPS from Egypt 🇪🇬</h3>
 
 ---
 
